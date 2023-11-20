@@ -1,0 +1,15 @@
+{
+  "footerTipNo1": "1. Select the inventory column header name (greater than 0 means inbound; less than 0 means outbound).",
+  "footerTipNo2": "2. Select the SN header name of which column the SN is entered by the scanner.",
+  "footerTipNo3": "3. Select the SN input box to start scanning the QR code to enter and exit the warehouse.",
+  "footerTipNo4": "Feedback is welcome for more features and optimizations",
+  "title": "Inbound and outbound assistant",
+  "inventorySelect": "Which column is your inventory",
+  "snSelect": "Which column is your SN",
+  "submit": "Manual submission",
+  "useTip": "Use suggestions",
+  "submitValueErrorTip": "Please check whether the inventory and SN are filled in",
+  "updateFaile": "Failed to update inventory quantity",
+  "addFaile": "Failed to add inventory",
+  "notHaveSn": "The sn does not exist and the inventory cannot be reduced."
+}

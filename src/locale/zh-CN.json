@@ -1,0 +1,15 @@
+{
+  "footerTipNo1": "1. 选择库存栏表头名称 (大于0 为入库; 小于 0 为出库)",
+  "footerTipNo2": "2. 选择扫码枪录入SN 为哪一栏SN 表头名称",
+  "footerTipNo3": "3. 选中SN输入框 便可开始扫码入库和出库",
+  "footerTipNo4": "  更多功能和优化欢迎反馈",
+  "title": "出入库小助手",
+  "inventorySelect": "哪栏是你库存",
+  "snSelect": "哪栏是你SN",
+  "submit": "手动提交",
+  "useTip": "使用提示",
+  "submitValueErrorTip": "请检查库存和SN是否填写",
+  "updateFaile": "更新库存信息失败！",
+  "addFaile": "新增库存失败",
+  "notHaveSn": "不存在该sn ,无法减库存"
+}
